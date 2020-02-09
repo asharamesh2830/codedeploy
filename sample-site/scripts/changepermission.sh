@@ -1,3 +1,3 @@
 #!/bin/bash 
-#  apache config .
+#  apache2 config .
 chown apache2:apache2 -R /var/www/html
